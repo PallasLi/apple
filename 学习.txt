@@ -1,0 +1,14 @@
+创建app应用
+iOS------Application-------Single View Application
+
+创建命令行学习项目
+OS x-----Application-------Command Line Tool    
+
+创建Cocoa项目
+OS x-----Application-------Cocoa Application
+
+
+
+
+objective-c------
+swift-----
