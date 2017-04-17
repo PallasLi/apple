@@ -1,0 +1,27 @@
+
+/* Class = "UITabBarItem"; title = "Item"; ObjectID = "Fxi-z6-5lo"; */
+"Fxi-z6-5lo.title" = "工作台";
+
+/* Class = "UITabBarItem"; title = "Item"; ObjectID = "KQR-Gz-kon"; */
+"KQR-Gz-kon.title" = "朋友圈";
+
+/* Class = "UILabel"; text = "密码"; ObjectID = "L1r-jb-Jmd"; */
+"L1r-jb-Jmd.text" = "密码";
+
+/* Class = "UITabBarItem"; title = "Item 1"; ObjectID = "Qnt-Th-zmz"; */
+"Qnt-Th-zmz.title" = "信息";
+
+/* Class = "UILabel"; text = "信息"; ObjectID = "kc1-aa-HU0"; */
+"kc1-aa-HU0.text" = "信息";
+
+/* Class = "UILabel"; text = "通讯录"; ObjectID = "lf1-Wy-YJw"; */
+"lf1-Wy-YJw.text" = "通讯录";
+
+/* Class = "UIButton"; normalTitle = "登录"; ObjectID = "lsR-UG-pQN"; */
+"lsR-UG-pQN.normalTitle" = "登录";
+
+/* Class = "UITabBarItem"; title = "Item 2"; ObjectID = "oUg-8B-cW1"; */
+"oUg-8B-cW1.title" = "通讯录";
+
+/* Class = "UILabel"; text = "用户名"; ObjectID = "yzk-Fp-i4f"; */
+"yzk-Fp-i4f.text" = "用户名";
